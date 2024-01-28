@@ -1,0 +1,29 @@
+.card { 
+    background-color: brown; 
+} 
+ 
+.list-group-item { 
+    background-color: #855AFD; 
+} 
+ 
+.fa-trash-can { 
+    font-size: 1rem; 
+} 
+ 
+.fa-plus { 
+    font-size: 1.4rem; 
+    color: #fff; 
+    position: relative; 
+    right: 2px; 
+    top: 2px; 
+} 
+ 
+.button { 
+    border-color: rgba(133, 90, 253, 0.8); 
+    background-color: rgba(133, 90, 253); 
+    color: white; 
+} 
+ 
+li { 
+    cursor: pointer; 
+}
